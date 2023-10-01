@@ -5,17 +5,13 @@ Déterminer une stratégie d’accompagnement dans le développement de la mobil
 
 Question:
 
-# /s [FR] Comment Vélib’Métropole peut-elle maintenir son rôle dans le développement du Grand Paris Express ? /s
+# Comment Vélib’Métropole peut-elle maintenir son rôle dans le développement du Grand Paris Express ? 
 
-Pre-requisites
+Pre-requis
 
 - Jupyter Notebook 
 - Power BI
   
-
-Folder Manifest
-Data
-
 Données à disposition : 
 
 ❖	Velib_Mars_2022.csv
@@ -58,10 +54,10 @@ Etape d'analyses:
 Etape 1 : Préparation des datasets
 
 Vélib’ Janvier 2023
--	Notebook # NB_Velib_Janv23.ipynb
+-	Notebook  NB_Velib_Janv23.ipynb
 
 Etape 2 : Préparation du fichier d'enrichissement des données
--	Notebook # NB_Enrichissement
+-	Notebook  NB_Enrichissement
 
 Etape 6 : Analyse business pour une stratégie d’opportunités de développement
 
