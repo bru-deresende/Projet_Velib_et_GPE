@@ -59,7 +59,11 @@ Vélib’ Janvier 2023
 Etape 2 : Préparation du fichier d'enrichissement des données
 -	Notebook  NB_Enrichissement
 
-Etape 6 : Analyse business pour une stratégie d’opportunités de développement
+Etape 3 : Création d'un calcul de rayonnement autour des gares gpe et station
+- rayonnage_gare_gpe.csv
+- rayonnage_stations.csv
+
+Etape 4 : Analyse business pour une stratégie d’opportunités de développement
 
 Analyse faite à partir du logiciel Power BI
 -	Analyse sous format ppt
